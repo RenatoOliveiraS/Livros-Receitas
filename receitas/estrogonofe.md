@@ -1,7 +1,9 @@
-# Estrogonofe de Frango
+# Entendendo o que é logica
 
+Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.
 
-TESTE BLA BLA BLA
-TESTE BLA BLA BLA
-TESTE BLA BLA BLA
+A lógica de programação é o conhecimento anterior a qualquer outro quando falamos em desenvolvimento web porque é a partir dele que os aprendizados posteriores, como por exemplo o das linguagens de programação, fará sentido.
+
+Cada linguagem tem suas próprias particularidades, como sua sintaxe, seus tipos de dados e sua orientação, mas a lógica por trás de todas é a mesma.
+Em outras palavras, dominar a lógica de programação é a porta de entrada para tornar-se um programador completo, seja em front-end ou em back-end.
 
